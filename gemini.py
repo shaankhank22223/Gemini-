@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # ðŸ”¹ Gemini API Key
-genai.configure(api_key=os.getenv("AIzaSyArQE8iG1zh7QCpx8mEuXDi-AYlVCg8P20"))
+genai.configure(api_key=os.getenv("AIzaSyAMrsUkT2B6N4EQDBlFhGvtgdLA8j6kTME"))
 
 # ðŸ”¹ Permanent System Prompt
 system_prompt = """
